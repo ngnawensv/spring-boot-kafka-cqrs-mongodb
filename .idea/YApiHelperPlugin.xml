@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CURLSettingState">
+    <option name="moduleInfoList">
+      <list>
+        <CURLModuleInfo>
+          <option name="id" value="59811000499000" />
+          <option name="moduleName" value="spring-boot-kafka-cqrs-mongodb" />
+        </CURLModuleInfo>
+        <CURLModuleInfo>
+          <option name="id" value="59811016784400" />
+          <option name="moduleName" value="product-query-service" />
+          <option name="port" value="9292" />
+        </CURLModuleInfo>
+        <CURLModuleInfo>
+          <option name="id" value="59811030816400" />
+          <option name="moduleName" value="product-command-service" />
+        </CURLModuleInfo>
+      </list>
+    </option>
+  </component>
+</project>
